@@ -4,3 +4,4 @@ Welcome to the Codanics Python programming guide! This document will help you ge
 Learning AI is very important.
 ## Third heading
 
+python is easy to use
